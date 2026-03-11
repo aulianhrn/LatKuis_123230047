@@ -1,3 +1,3 @@
 # latihan_kuis_a
 
-A new Flutter project.
+Aulia Putri N. / 123230047
